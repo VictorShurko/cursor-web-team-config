@@ -1,4 +1,4 @@
-# Cursor: конфиг для команды сайтов
+# Cursor: конфиг для команды
 
 Репозиторий: [https://github.com/VictorShurko/cursor-web-team-config](https://github.com/VictorShurko/cursor-web-team-config)
 
