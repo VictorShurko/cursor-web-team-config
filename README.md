@@ -38,7 +38,7 @@
 | Контент-менеджер | `/content-update`, skill `safe-content-update` |
 | Веб-разработчик | `/migrate-block`, skill `site-migrate-page`, `/check-page`, CMS-правила |
 
-Инструкции для людей:
+Инструкции:
 - `docs/cursor-instruction.html` — работа в Cursor
 - `docs/site-migration-instruction.html` — перенос сайта
 - `docs/site-migration-prompt.md` — универсальный промпт переноса
