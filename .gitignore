@@ -1,0 +1,6 @@
+_tmp_transcript_extract/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
